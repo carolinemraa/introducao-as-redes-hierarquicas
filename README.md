@@ -72,10 +72,3 @@ no shutdown
 
 ---
 
-
-
----
-
-**Especulações ou interpretações**
-
-* Todos os PCs devem pertencer à sub-rede `192.168.1.0/24`, pois não foram configuradas VLANs (*Virtual Local Area Networks*) nem roteamento inter-VLAN no roteiro original.
