@@ -1,5 +1,5 @@
 # introducao-as-redes-hierarquicas
-# Atividade Prática: Introdução às Redes Hierárquicas
+# Introdução às Redes Hierárquicas
 **Objetivo:** Compreender a divisão de uma rede corporativa nas três camadas do modelo hierárquico (Acesso, Distribuição e Núcleo/Core) e realizar a configuração e testes de conectividade básica.
 
 Montei uma rede em 3 camadas, configurei os IPs e testei a comunicação.
